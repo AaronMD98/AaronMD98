@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaronMD98
-- 👀 I’m interested in business, marketing and software development (aspiring web 3.0)
+- 👀 I’m interested in business, marketing and software development (web 3.0)
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
